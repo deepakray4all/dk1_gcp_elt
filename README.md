@@ -1,7 +1,7 @@
 # GCP ELT Project using AirFlow
 This is a ELT Project in GCP using Google Cloud Storage, BigQuery, AirFlow in Compute Engine VM and LookerStudio
 
-#Aiflow Screenshots of Dag Execution
+#Aiflow Incremental Dag List
 ![image](https://github.com/user-attachments/assets/a2e46167-71b3-4ff7-8c72-ac3bcfde44ce)
 
 #Airflow Final Dag Execution
